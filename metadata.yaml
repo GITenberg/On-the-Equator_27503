@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3779
     wikipedia: http://en.wikipedia.org/wiki/Harry_de_Windt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27503#On-the-Equator
 gutenberg_issued: '2008-12-12'
 gutenberg_type: Text
 identifiers:
