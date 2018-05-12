@@ -1,0 +1,29 @@
+_repo: On-the-Equator_27503
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27503-h/images/cover.jpg
+creator:
+  author:
+    agent_name: De Windt, Harry
+    alias: Windt, Harry de
+    birthdate: 1856
+    deathdate: 1933
+    gutenberg_agent_id: '3779'
+    url: http://www.gutenberg.org/2009/agents/3779
+    wikipedia: http://en.wikipedia.org/wiki/Harry_de_Windt
+description: ''
+gutenberg_issued: '2008-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Java (Indonesia) -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Sarawak -- Description and travel'
+title: On the Equator
+url: http://www.gutenberg.org/ebooks/27503
